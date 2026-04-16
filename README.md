@@ -12,7 +12,7 @@ DOI: https://doi.org/10.1007/978-3-030-77870-5_24
 In *CRYPTO 2021*.  
 DOI: https://doi.org/10.1007/978-3-030-84252-9_23  
 
-[ADOS22]: Damiano Abram, Ivan Damgaard, Claudio Orlandi, and Peter Scholl.  
+[ADOS22]: Damiano Abram, Ivan Damgård, Claudio Orlandi, and Peter Scholl.  
 *An Algebraic Framework for Silent Preprocessing with Trustless Setup and Active Security*.  
 In *CRYPTO 2022*.  
 DOI: https://doi.org/10.1007/978-3-031-15985-5_15  
