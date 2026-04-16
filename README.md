@@ -25,7 +25,7 @@ Each protocol keeps its own source tree, build configuration, demo, and smoke te
 ## Included Protocol Lines
 
 | Directory | Tag | Paper / protocol line | 
-| --- | --- | --- | --- |
+| --- | --- | --- | 
 | `osy21/` | OSY21 | Paillier-based HSS | 
 | `rs21/` | RS21 | DCR / Damgård–Jurik-based HSS | 
 | `ados22/` | ADOS22 | Elgamal-based HSS | 
